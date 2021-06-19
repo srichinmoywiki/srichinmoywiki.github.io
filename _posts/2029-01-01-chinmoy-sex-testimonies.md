@@ -10,4 +10,4 @@ The testimonies were published on a Yahoo group ( now defunct but backed up ) an
 
 The best is simply to read them to assess the extreme gravity of the accusations made by these former disciples who had been with Chinmoy for many years . 
 
-![Testimonies](http://15yearsinshiningdarkness.blogspot.com/p/blog-page_88.html) 
+Link to [Testimonies](http://15yearsinshiningdarkness.blogspot.com/p/blog-page_88.html) 
