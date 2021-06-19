@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Sri Chinmoy WIKI
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: A blog about Chinmoy Kumat Ghose - AKA Sri Chinmoy
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["Sri", "Chinmoy"]
 
 #
 ###################################
